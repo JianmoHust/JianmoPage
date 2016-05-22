@@ -1,6 +1,6 @@
 {
   "name": "Jianmopage",
   "tagline": "",
-  "body": "### Welcome to GitHub Pages.\r\n<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/LrvPhSASBjk\" frameborder=\"0\" allowfullscreen></iframe>\r\n\r\n",
+  "body": "### Welcome to GitHub Pages.\r\n<embed type=\"video/mp4\" allowscriptaccess=\"always\" allowfullscreen=\"true\" wmode=\"transparent\" quality=\"high\" height=\"300\" width=\"480\" src=\"http://7xthzp.com2.z0.glb.clouddn.com/IMG_5033.mp4\"/>\r\n\r\n\r\n",
   "note": "Don't delete this file! It's used internally to help with page regeneration."
 }
